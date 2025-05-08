@@ -9,3 +9,4 @@ for i in range(1,51): # 1~50까지 수 i 생성 (승객)
           print("[ ] {0}번째 손님 (소요시간 : {1}분)".format(i, time))
 
 print("총 탑승 승객 : {0} 명".format(cnt))
+print("github활용에 대하여 알아보자")
