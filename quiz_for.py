@@ -10,3 +10,4 @@ for i in range(1,51): # 1~50까지 수 i 생성 (승객)
 
 print("총 탑승 승객 : {0} 명".format(cnt))
 print("github활용에 대하여 알아보자")
+print("이 코멘트는 github에서 작성한 것입니다")
